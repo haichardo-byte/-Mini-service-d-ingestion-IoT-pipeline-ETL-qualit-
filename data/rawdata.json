@@ -1,0 +1,25 @@
+[
+{
+"request_id": "1",
+"timestamp": "2026-03-03T10:00:00",
+"sensor_id": "S1",
+"site_id": "ZoneA",
+"temperature": 38.0,
+"humidity": 55.0,
+"pm25": 12,
+"pm10": 20,
+"ozone": 0.03,
+"no2": 0.01,
+"irrigation": "ON",
+"battery": 90
+},
+{
+"request_id": "2",
+"timestamp": "2026-03-03T10:05:00",
+"sensor_id": "",
+"site_id": "ZoneB",
+"temperature": 27.5,
+"humidity": 105.0,
+"irrigation": "OUI"
+}
+]
